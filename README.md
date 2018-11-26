@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-Provides generated HTML data for Rails applications
+```ruby
+SchmittViewTool::Renderer.copyright 'Tristan Schmitt', 'All Rights Reserved'
+```
 
 ## Development
 
